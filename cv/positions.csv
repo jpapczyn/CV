@@ -1,0 +1,14 @@
+section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
+education,TRUE,M.S. Program Evaluation and Data Analytics,"Tempe, AZ",Arizona State University,2019,2021,Working on coursework in data analytics in R and program evaluation methods.,NA,
+education,TRUE,B.S. Space Studies,"Charelstown, WV",American Military University,2015,2017,Thesis: Growth potential of commercial entrprise in space activities.,NA,
+education,TRUE,A.S. Intelligence Studies,Maxwell AFB,Community College of The Air Force,2011,2015,Learned the principles required to be an intelligence professional.,NA,NA
+education,TRUE,A.A. General Education,"Cocoa, FL",Brevard Community College,2008,2013,"Completed course in Algebra, Biology, Chemistry and Sociology.",NA,NA
+industry_positions,TRUE,Senior Operations Analyst,"Fayetteville, NC",Aevex Aerospace,2019,2020,Managed RPA ISR sorties in support of multi-national COIN/CT/FID operations in a forward deployed environment., Incorporated multi-source fusion into PED analysis and products to provide near real time intelligence reporting on key AFRICOM targets.,NA
+industry_positions,TRUE,Mission Supervisor,"Fort Walton Beach, FL",MacB/Zeltech,2017,2019,"Managed blended teams of 8-12 contractors, civilians and military members; ensured projects were complete on time.",Incorporated lean six sigma principals into daily operations to improve team efficiency and workflow.,NA
+industry_positions,TRUE,Tactician / Lead Instructor,"Fort Walton Beach, FL",USAF,2014,2017,"Acted as liaison between the 11SOIS and numerous SOF forces, facilitating visits, tactics exchanges, and training from partner units to PED crews to improve analyst understanding, ability, and motivation.",Vetted software for adoption and created training aids to streamline integration of new software into operations.,NA
+industry_positions,TRUE,DIA SAP Collection Manager,"Ramstein, GE",USAF,2011,2014,Supervised small teams in the everyday function of multi-million-dollar special access program; ensured mission success through adherence to protocol and attention to detail.,Provided High priority intelligence to the CJCS and the Presidential cabinet on issues pertaining to national security and U.N. treaty violations. ,NA
+training,TRUE,Certified SCRUM Master,,SCRUM Alliance,,2020,NA,NA,NA
+training,TRUE,Continuous Process Improvement Greenbelt,,Six Sigma,,2017,NA,NA,NA
+training,TRUE,Geospatial Professional Certification Fundamentals,,National Geospatial-Intelligence Agency,,2016,NA,NA,NA
+training,TRUE,Basics of LiDAR,,National Geospatial-Intelligence Agency,,2016,NA,NA,NA
+training,TRUE,Intermediate GIS for Analysis,,National Geospatial-Intelligence Agency,,2016,NA,NA,NA
